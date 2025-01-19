@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Intern_reference_project"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".SampleSttActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

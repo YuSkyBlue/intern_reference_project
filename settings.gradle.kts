@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "intern_reference_project"
-include(":app")
- 
+include(":presentation")
+include(":model")
